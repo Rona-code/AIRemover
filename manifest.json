@@ -5,7 +5,7 @@
   "icons": {
     "48": "icons/icon48.png"
   },
-  "description": "Automatically redirects to web results without AI.",
+  "description": "Hides Google's AI Overviews from search results while keeping all tabs like Images and Videos fully functional.",
   "content_scripts": [
     {
       "matches": [
